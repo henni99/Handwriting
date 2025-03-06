@@ -26,4 +26,4 @@ jobs:
         with:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: ./docs
-          publish_branch: release/1.0.4
+          publish_branch: gh-pages
