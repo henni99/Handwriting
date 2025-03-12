@@ -244,7 +244,7 @@ fun HandWritingNote(
           },
       ) {
         drawIntoCanvas { canvas ->
-          drawRect(controller.contentBackground)
+          drawRect(controller.contentBackgroundColor)
 
           canvasImageBitmap?.let { bitmap ->
             canvas.drawImage(bitmap, Offset.Zero, Paint())
