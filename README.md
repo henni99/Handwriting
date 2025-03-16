@@ -36,7 +36,7 @@ Supports drawing, erasing, selection and manipulation, laser undo/redo, and zoom
     
 ↩️ Undo | ↪️ Redo |
 | :---------------: | :---------------: |
-| <img src="https://github.com/user-attachments/assets/955e8c06-c549-4ec9-bb75-deb66ba31ac3" align="center" width="250"/> | <img src="https://github.com/user-attachments/assets/ad126df7-f579-4b57-8491-8c22a2c9d909" align="center" width="250"/> |
+| <img src="https://github.com/user-attachments/assets/c889c0e9-e3a3-4216-a892-dfd8d486543e" align="center" width="250"/> | <img src="https://github.com/user-attachments/assets/ad126df7-f579-4b57-8491-8c22a2c9d909" align="center" width="250"/> |
 </div>
 
 
